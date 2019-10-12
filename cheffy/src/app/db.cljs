@@ -289,6 +289,6 @@
                                                                                      :updated-at 1538697210537}}}}})
 
 (rf/reg-event-db
-  :initialize-db
+ :initialize-db
  (fn [_ _]
    initial-app-db))
