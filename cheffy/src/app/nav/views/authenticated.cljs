@@ -33,4 +33,9 @@
       :py              1}
      (for [{:keys [id name href dispatch]} nav-items]
        [nav-item
-        {:id id :key id :name name :href href :dispatch dispatch :active-nav active-nav}])]))
+        {:id id
+         :key id
+         :name name
+         :href href
+         :dispatch dispatch
+         :active-nav active-nav}])]))
