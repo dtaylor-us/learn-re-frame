@@ -1,5 +1,6 @@
-(ns app.recipes.views.recipes)
+(ns app.recipes.views.recipes
+  (:require [app.components.page_nav :refer [page-nav]]))
 
 (defn recipes
   []
-  [:div "recipes"])
+  [page-nav {:center "Recipes"}])

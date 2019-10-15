@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14d22b9e-c99b-4e0e-b153-2e8b48d9e840" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/auth/views/log_in.cljs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/auth/views/sign_up.cljs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/auth/views/log_in.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/views/log_in.cljs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/auth/views/profile.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/views/profile.cljs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/auth/views/sign_up.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/auth/views/sign_up.cljs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/become_a_chef/views/become_a_chef.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/become_a_chef/views/become_a_chef.cljs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/core.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/core.cljs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/inbox/views/inboxes.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/inbox/views/inboxes.cljs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/nav/events.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/nav/events.cljs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/nav/subs.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/nav/subs.cljs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/nav/views/authenticated.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/nav/views/authenticated.cljs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/nav/views/nav.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/nav/views/nav.cljs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/nav/views/nav_item.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/nav/views/nav_item.cljs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/nav/views/public.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/nav/views/public.cljs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/recipes/views/recipes.cljs" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/recipes/views/recipes.cljs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/auth/views/sign_up.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="126">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -49,17 +57,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/auth/views/log_in.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            <state>
+              <caret selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/nav/views/nav.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+            <state relative-caret-position="84">
+              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
               <folding>
                 <element signature="e#0#101#0" expanded="true" />
               </folding>
@@ -71,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/src/app/nav/views/authenticated.cljs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="318">
-              <caret line="20" column="45" lean-forward="true" selection-end-line="41" />
+              <caret line="20" column="38" selection-end-line="38" />
               <folding>
                 <element signature="e#0#171#0" expanded="true" />
               </folding>
@@ -79,11 +87,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/app/auth/views/profile.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="126">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -91,8 +99,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/become_a_chef/views/become_a_chef.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+            <state relative-caret-position="126">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -101,7 +109,7 @@
         <entry file="file://$PROJECT_DIR$/src/app/nav/views/public.cljs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="504">
-              <caret line="24" column="69" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+              <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding>
                 <element signature="e#0#164#0" expanded="true" />
               </folding>
@@ -112,17 +120,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/app/inbox/views/inboxes.cljs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="16" selection-end-line="4" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/app/recipes/views/recipes.cljs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <state relative-caret-position="105">
+              <caret line="5" column="16" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -151,20 +150,21 @@
         <option value="$PROJECT_DIR$/src/app/recipes/views/recipes.cljs" />
         <option value="$PROJECT_DIR$/src/app/inbox/views/inboxes.cljs" />
         <option value="$PROJECT_DIR$/src/app/become_a_chef/views/become_a_chef.cljs" />
-        <option value="$PROJECT_DIR$/src/app/auth/views/profile.cljs" />
         <option value="$PROJECT_DIR$/src/app/nav/views/public.cljs" />
-        <option value="$PROJECT_DIR$/src/app/auth/views/log_in.cljs" />
         <option value="$PROJECT_DIR$/src/app/auth/views/sign_up.cljs" />
         <option value="$PROJECT_DIR$/src/app/core.cljs" />
         <option value="$PROJECT_DIR$/src/app/nav/views/nav.cljs" />
+        <option value="$PROJECT_DIR$/src/app/components/page_nave.cljs" />
+        <option value="$PROJECT_DIR$/src/app/auth/views/log_in.cljs" />
+        <option value="$PROJECT_DIR$/src/app/auth/views/profile.cljs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1920" />
     <option name="y" value="-42" />
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -260,8 +260,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
-    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
@@ -335,15 +334,15 @@
       <option name="presentableId" value="Default" />
       <updated>1570903492608</updated>
       <workItem from="1570903505743" duration="10630000" />
-      <workItem from="1570941586553" duration="4717000" />
+      <workItem from="1570941586553" duration="6456000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15347000" />
+    <option name="totallyTimeSpent" value="17086000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="-42" width="1920" height="1080" extended-state="0" />
+    <frame x="-1920" y="-42" width="1920" height="1080" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.108093716" />
@@ -446,29 +445,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/become_a_chef/views/become_a_chef.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/inbox/views/inboxes.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="16" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/auth/views/profile.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="105">
+          <caret line="5" column="16" selection-end-line="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/app/nav/views/authenticated.cljs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="318">
-          <caret line="20" column="45" lean-forward="true" selection-end-line="41" />
+          <caret line="20" column="38" selection-end-line="38" />
           <folding>
             <element signature="e#0#171#0" expanded="true" />
           </folding>
@@ -478,24 +470,17 @@
     <entry file="file://$PROJECT_DIR$/src/app/nav/views/public.cljs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
-          <caret line="24" column="69" selection-start-line="24" selection-start-column="69" selection-end-line="24" selection-end-column="69" />
+          <caret line="24" column="28" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding>
             <element signature="e#0#164#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/app/auth/views/log_in.cljs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/auth/views/sign_up.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -509,13 +494,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/app/nav/views/nav.cljs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        <state relative-caret-position="84">
+          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
           <folding>
             <element signature="e#0#101#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/components/page_nave.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#0#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/auth/views/log_in.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/auth/views/profile.cljs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>

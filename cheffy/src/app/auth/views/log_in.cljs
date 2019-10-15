@@ -1,5 +1,6 @@
-(ns app.auth.views.log_in)
+(ns app.auth.views.log-in
+  (:require [app.components.page_nav :refer [page-nav]]))
 
 (defn log-in
   []
-  [:div "log-in"])
+  [page-nav {:center "Log in"}])
