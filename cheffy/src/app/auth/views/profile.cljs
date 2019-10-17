@@ -1,5 +1,5 @@
 (ns app.auth.views.profile
-  (:require [app.components.page_nav :refer [page-nav]]))
+  (:require [app.components.page-nav :refer [page-nav]]))
 
 (defn profile
   []

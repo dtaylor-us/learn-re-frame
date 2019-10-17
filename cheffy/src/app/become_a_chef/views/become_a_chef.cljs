@@ -1,5 +1,5 @@
 (ns app.become-a-chef.views.become-a-chef
-  (:require [app.components.page_nav :refer [page-nav]]))
+  (:require [app.components.page-nav :refer [page-nav]]))
 
 (defn become-a-chef
   []

@@ -1,5 +1,5 @@
 (ns app.inbox.views.inboxes
-  (:require [app.components.page_nav :refer [page-nav]]))
+  (:require [app.components.page-nav :refer [page-nav]]))
 
 (defn inboxes
   []

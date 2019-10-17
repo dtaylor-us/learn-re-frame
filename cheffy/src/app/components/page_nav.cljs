@@ -1,4 +1,4 @@
-(ns app.components.page_nav
+(ns app.components.page-nav
   (:require ["@smooth-ui/core-sc" :refer [Box Button Typography]]
             ["styled-icons/fa-solid/ChevronLeft" :refer [ChevronLeft]]))
 
